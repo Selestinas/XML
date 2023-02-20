@@ -1,1 +1,10 @@
 
+<bug>
+ <id>4513879<id>
+ </developer>Thomas Hilfiger</developer> <developer_username>thomashilfigger<developer_username>
+ <creation_time>2023-02-20 22:09:00<creation_time>
+   <product>JDT<product>
+     <component>UI<component>
+       <resolution>fixed<resolution>
+         <bug_severity>normal<bug_severity>
+           
